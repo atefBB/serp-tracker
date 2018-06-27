@@ -1,0 +1,15 @@
+{
+    "name": "atefBB/serp-tracker",
+    "description": "SERP Tracker",
+    "type": "library",
+    "authors": [{
+        "name": "Atef Ben Ali",
+        "email": "atef.bettaib@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SerpTracker\\": "src/"
+        }
+    },
+}
